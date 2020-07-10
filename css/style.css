@@ -1,0 +1,71 @@
+.fonts {
+  font-family: 'GothamPro';
+}
+
+.nav {
+  font: 700 12px/11px;
+}
+
+.title {
+  font: 700 30px/29px;
+}
+
+.subtitle {
+  font: 700 22px/21px;
+}
+
+.container__description {
+  font: 12px/11px;
+}
+
+.container__price {
+  font: 700 14px/13px;
+}
+
+.section__title {
+  font: 700 22px/27px;
+}
+
+.section__text {
+  font: 14px/17px;
+}
+
+.article__subtitle {
+  font: 700 22px/21px;
+}
+
+.article__presentation {
+  font: 700 18px/17px;
+}
+
+.article__text {
+  font: 14px/17px;
+}
+
+.box__title {
+  font: 700 12px/11px;
+}
+
+.box__nav {
+  font: 12px/11px;
+}
+
+.box__text {
+  font: 12px/11px;
+}
+
+.button {
+  font: 700 10px/10px;
+}
+
+.text {
+  font: 12px/11px;
+}
+
+.emphasis {
+  font: 700 14px/11px;
+}
+
+.date {
+  font: 12px/11px;
+}
